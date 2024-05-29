@@ -1,2 +1,2 @@
-# hotelmenu_git_demo
+# hotelmenu
 <h1>this is my demo python project.</h1>
